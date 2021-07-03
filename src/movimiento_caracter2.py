@@ -1,3 +1,11 @@
+"""
+Uso: Movimiento de caracter
+Creador: Andrés Hernández Mata
+Version: 1.0.0
+Python: 3.9.1
+Fecha: 03 Julio 2021
+"""
+
 import os, time, sys
 
 direccion = "d"
@@ -39,3 +47,6 @@ while direccion != "s":
 	cadena = nueva_cadena(posicion)
 	print(cadena)
 	direccion = input("Mover, ¿derecha, izquierda, salir? d/i/s : ")
+
+
+
