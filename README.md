@@ -6,4 +6,5 @@ Scripts de Python
 - Variables
 - Lecturas
 - Comparaciones
+- Condicionales
 
