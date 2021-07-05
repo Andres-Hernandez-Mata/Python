@@ -5,4 +5,5 @@ Scripts de Python
 - Hola mundo
 - Variables
 - Lecturas
+- Comparaciones
 
