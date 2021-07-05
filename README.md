@@ -7,4 +7,5 @@ Scripts de Python
 - Lecturas
 - Comparaciones
 - Condicionales
+- Ciclo While
 
