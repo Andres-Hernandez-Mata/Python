@@ -8,4 +8,5 @@ Scripts de Python
 - Comparaciones
 - Condicionales
 - Ciclo While
+- Ciclo For
 
